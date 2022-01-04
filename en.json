@@ -1,5 +1,5 @@
 {
-	"locale": "en",
+	"locale": "English",
 	"strings": {
 		"BOT_RUNNING": "I'm ready.",
 		"MUSIC_NOMUSICPLAYING": "No music playing in this guild.",
