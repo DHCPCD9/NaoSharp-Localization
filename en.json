@@ -34,7 +34,10 @@
 		"KISS_TITLE": "{0} kisses {1}",
 		"KISS_TITLE_BOT": "{0} kisses {1}, but {1} doesn't know what is it 😭.",
 		"KISS_TITLE_SELF": "{0} want some kisses.",
-		"KISS_BUTTON_TEXT": "Kiss {0}."
+		"KISS_BUTTON_TEXT": "Kiss {0}.",
+		"MESSAGE_NOT_SUPPORTED": "This message is not supported 😭",
+		"CHANNEL_NOT_SUPPORTED": "Provided channel is not supported, please check bot permissions.",
+		"MESSAGE_WITH_ID": "To edit/attach buttons to message, use id `{id}`"
 
 	}
 }
