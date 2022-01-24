@@ -37,7 +37,7 @@
 		"KISS_BUTTON_TEXT": "Kiss {0}.",
 		"MESSAGE_NOT_SUPPORTED": "This message is not supported 😭",
 		"CHANNEL_NOT_SUPPORTED": "Provided channel is not supported, please check bot permissions.",
-		"MESSAGE_WITH_ID": "To edit/attach buttons to message, use id `{id}`"
+		"MESSAGE_WITH_ID": "To edit/attach buttons to message, use id `{0}`"
 
 	}
 }
