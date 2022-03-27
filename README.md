@@ -1,1 +1,1 @@
-"# NaoSharp-Localization" 
+# NaoSharp-Localization
