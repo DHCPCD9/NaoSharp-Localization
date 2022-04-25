@@ -66,9 +66,19 @@
 		"economy.quests.quest.RequiredMessagesUntil.RequiredMessages": "Необхідно повідомлень",
 		"economy.quests.quest.RequiredMessagesUntil.Until": "До",
 		"economy.quests.quest.RequiredMessagesUntil.current": "Повідомлень до цього моменту",
+		"economy.quests.quest.OutplayBotFlip": "Перемогти бота бота в команді flip",
+		"economy.quests.quest.OutplayBotFlip.Flips": "Перемогти в іграх",
 		"economy.quests.reward": "**Нагорода**",
 		"economy.quests.reward.currency": "UAH",
-		"economy.quest.complete": "Ви завершили квест **{0}** і отримали **{1}** грн."
+		"economy.quest.complete": "Ви завершили квест **{0}** і отримали **{1}** грн.",
+		"voteskip.skip": "Проголосувати за пропуск трека.",
+		"flip.heads": "Орел",
+		"flip.tails": "Решка",
+		"economy.flip.bid.negative": "Ваша ставка не може бути від'ємною.",
+		"economy.flip.bid.too-high": "Ваша ставка не може бути більшою ніж ваш баланс.",
+		"economy.flip.choice.missing": "Ви не вибрали орел або решку.",
+		"economy.flip.won": "Ви виграли **{0}** грн.",
+		"economy.flip.lost": "Ви програли **{0}** грн."
 
 	}
 }

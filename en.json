@@ -65,8 +65,18 @@
 		"economy.quests.quest.RequiredMessagesUntil.RequiredMessages": "Required messages",
 		"economy.quests.quest.RequiredMessagesUntil.Until": "until",
 		"economy.quests.quest.RequiredMessagesUntil.current": "Current",
+		"economy.quests.quest.OutplayBotFlip": "Outplay bot in flip",
+		"economy.quests.quest.OutplayBotFlip.Flips": "Outplay bot {0} times",
 		"economy.quests.reward": "**Reward**",
 		"economy.quests.reward.currency": "UAH",
-		"economy.quest.complete": "Quest {0} completed. You got {1} UAH"
+		"economy.quest.complete": "Quest {0} completed. You got {1} UAH",
+		"voteskip.skip": "Vote for skip!",
+		"flip.heads": "Heads",
+		"flip.tails": "Tails",
+		"economy.flip.bid.negative": "Bid must be positive",
+		"economy.fip.bid.too-high": "Bid is too high",
+		"economy.flip.choice.missing": "You must choose heads or tails",
+		"economy.flip.won": "You won {0} UAH",
+		"economy.flip.lost": "You lost {0} UAH"
 	}
 }
