@@ -66,7 +66,7 @@
 		"economy.quests.quest.RequiredMessagesUntil.Until": "until",
 		"economy.quests.quest.RequiredMessagesUntil.current": "Current",
 		"economy.quests.quest.OutplayBotFlip": "Outplay bot in flip",
-		"economy.quests.quest.OutplayBotFlip.Flips": "Outplay bot {0} times",
+		"economy.quests.quest.OutplayBotFlip.Flips": "Outplay bot times",
 		"economy.quests.reward": "**Reward**",
 		"economy.quests.reward.currency": "UAH",
 		"economy.quest.complete": "Quest {0} completed. You got {1} UAH",
