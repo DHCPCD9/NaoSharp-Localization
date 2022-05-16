@@ -77,6 +77,30 @@
 		"economy.fip.bid.too-high": "Bid is too high",
 		"economy.flip.choice.missing": "You must choose heads or tails",
 		"economy.flip.won": "You won {0} UAH",
-		"economy.flip.lost": "You lost {0} UAH"
+		"economy.flip.lost": "You lost {0} UAH",
+		"timeout.self": "You are about to mute yourself.",
+		"timeout.yes": "Yes",
+		"timeout.no": "No",
+		"timeout.canceled": "Canceled",
+		"timeout.noUser": "User not found",
+		"timeout.done": "{0} has been muted for {1}. Reason: {2}",
+		"timeout.selfmuted": "You has been self-muted.",
+		"actions.role.nottextchannel": "This channel not text channel",
+		"actions.role.notauthor": "This message is not mine.",
+		"error.no-text-channel": "Not text channel!",
+		"welcomer.channel-set": "Welcome channel has been changed!",
+		"welcomer.preview-welcome": "Welcome message:",
+		"welcomer.preview-leave": "Leave message:",
+		"welcomer.preview.notprovided": "Not provided",
+		"welcomer.channels-preview": "Channels: ",
+		"welcomer.message-empty": "Message is empty",
+		"welcomer.placeholders": "Examples of placeholders can be found here: https://gist.github.com/DHCPCD9/9e248f58a24874c048a9c1333c6eac05",
+		"welcomer.toggle": "Welcomer toggled",
+		"stats.shard": "Shard",
+		"stats.guilds": "Guilds",
+		"stats.ram": "RAM",
+		"stats.uptime": "Uptime",
+		"stats.library": "Library"
+
 	}
 }
