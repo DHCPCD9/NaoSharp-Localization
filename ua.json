@@ -84,10 +84,12 @@
 		"timeout.no": "Ні",
 		"timeout.canceled": "Ви відмінили блокування.",
 		"timeout.noUser": "Цей користувач не знайдений.",
-		"timeout.done": "Ви заблокували **{0}** на **{1}** хвилин за **{2}**.",
+		"timeout.done": "**{0}** Буде заблокований по причині **{2}**, він буде розблокований **{1}**.",
+		"timeout.no-reason": "Без причини.",
 		"timeout.selfmuted": "Ви заблокували себе.",
 		"actions.role.nottextchannel": "Цей канал не текстовий.",
 		"actions.role.notauthor": "Це не моє повідомлення",
+		"actions.role.higher": "Ця роль надто висока.",
 		"error.no-text-channel": "Цей канал не є текстовим.",
 		"welcomer.channel-set": "Ви встановили канал для вітальника.",
 		"welcomer.preview-welcome": "Вітальне повідомлення:",
@@ -101,7 +103,6 @@
 		"stats.guilds": "Серверів",
 		"stats.ram": "ОЗУ",
 		"stats.uptime": "Час роботи",
-		"stats.library": "Бібліотека",
-
+		"stats.library": "Бібліотека"
 	}
 }
