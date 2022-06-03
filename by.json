@@ -76,7 +76,7 @@
                 "economy.flip.bid.negative": "Стаўка павінна быць неадмоўнай",
                 "economy.flip.bid.too-high": "Стаўка занадта высокая",
                 "economy.flip.choice.missing": "Вы павінны выбраць арла або рэшку",
-                "economy.flip.won": "Вы выйгралі {0} {1}",
+                "economy.flip.won": "Вы выйгралі {0} {2} ( `+{1}` )",
                 "economy.flip.lost": "Вы прайгралі {0} {1}",
                 "timeout.self": "You are about to mute yourself.",
 		"timeout.yes": "Yes",

@@ -75,7 +75,7 @@
 		"economy.flip.bid.negative": "Bid must be positive",
 		"economy.flip.bid.too-high": "Bid is too high",
 		"economy.flip.choice.missing": "You must choose heads or tails",
-		"economy.flip.won": "You won {0} {1}",
+		"economy.flip.won": "You won {0} {2} ( `+{1}` )",
 		"economy.flip.lost": "You lost {0} {1}",
 		"timeout.self": "You are about to mute yourself.",
 		"timeout.yes": "Yes",
