@@ -50,7 +50,7 @@
 		"economy.quests.enabled": "Квести увімкнені.",
 		"economy.disabled": "Економіка відключена.",
 		"economy.enabled": "Економіка увімкнена.",
-		"economy.balance": "На вашому рахунку **{0}** {2}.",
+		"economy.balance": "На вашому рахунку **{0}** {1}.",
 		"economy.frozen": "Ваш рахунок було заморожено",
 		"economy.pay.target.notfound": "Цей користувач не знайдений.",
 		"economy.pay.notenough": "Недостатньо грошей на вашому рахунку.",
