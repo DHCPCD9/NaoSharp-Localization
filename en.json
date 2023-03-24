@@ -1,109 +1,220 @@
 {
-	"locale": "English",
-	"strings": {
-		"BOT_RUNNING": "I'm ready.",
-		"MUSIC_NOMUSICPLAYING": "No music playing in this guild.",
-		"MUSIC_NOQUERY": "No query given.",
-		"MUSIC_NO_CONNECTION": "You are not in voice channel.",
-		"MUSIC_NOPERMISSIONS_VOICE": "I don't have permissions to connect to your channel.",
-		"MUSIC_CHANNELFULL": "Channel is full.",
-		"MUSIC_QUEUE_MISSING_PERMISSIONS": "Not enough permissions in queueChannel. (Current channel.)",
-		"MUSIC_NOMATCHES": "No matches.",
-		"MUSIC_LOADFAILED": "Cannot load tracks.",
-		"MUSIC_PLAYLIST_LOADED": "Loaded playlist **{0}**.",
-		"MUSIC_TRACK_ADDED": "Track has been added to queue.",
-		"ERROR_NO": "NO!",
-		"MUSIC_LOOPTYPE": "Current loop type is: **{0}**",
-		"MUSIC_EMPTY_QUEUE": "Queue is empty.",
-		"HUG_TITLE": "{0} hugs {1}",
-		"HUG_TITLE_BOT": "{0} hugs {1}, but {1} doesn't feel it 😭.",
-		"HUG_TITLE_SELF": "{0} want hugs!",
-		"HUG_BUTTON_TEXT": "Hug {0}",
-		"SLAP_TITLE": "{0} slaps {1}",
-		"SLAP_TITLE_BOT": "{0} slaps {1}, but {1} dont know what it is, its kiss or slap.",
-		"SLAP_TITLE_SELF": "{0} want some slap!",
-		"SLAP_BUTTON_TEXT": "slap {0}",
-		"FEED_TITLE": "{0} feed {1}",
-		"FEED_TITLE_BOT": "{0} feed {1}, but {1} doesn't want it 😖.",
-		"FEED_TITLE_SELF": "{0} hungry... want to feed them?",
-		"FEED_BUTTON_TEXT": "Feed {0}",
-		"PAT_TITLE": "{0} pats {1}",
-		"PAT_TITLE_BOT": "{0} want pat {1}, but {1} doesn't want it.",
-		"PAT_TITLE_SELF": "{0} want to pat, press button to do it",
-		"PAT_BUTTON_TEXT": "Pat {0}",
-		"KISS_TITLE": "{0} kisses {1}",
-		"KISS_TITLE_BOT": "{0} kisses {1}, but {1} doesn't know what is it 😭.",
-		"KISS_TITLE_SELF": "{0} want some kisses.",
-		"KISS_BUTTON_TEXT": "Kiss {0}.",
-		"MESSAGE_NOT_SUPPORTED": "This message is not supported 😭",
-		"CHANNEL_NOT_SUPPORTED": "Provided channel is not supported, please check bot permissions.",
-		"MESSAGE_WITH_ID": "To edit/attach buttons to message, use id `{0}`",
-		"----------------------------------------------------------------": "",
-		"LOCALIZATION V2": "",
-		"----------------------------------------------------------------": "",
-		"locale.already.set": "Locale already set to {0}",
-		"locale.not.exists": "Locale {0} not exists",
-		"locale.set": "Locale set to {0}",
-		"basic.done": "Done!",
-		"economy.quests.disabled": "Quests are disabled",
-		"economy.quests.enabled": "Quests are enabled",
-		"economy.disabled": "Economy is disabled",
-		"economy.enabled": "Economy is enabled",
-		"economy.balance": "Your balance is {0} {1}",
-		"economy.frozen": "Your balance is frozen",
-		"economy.pay.target.notfound": "Target not found",
-		"economy.pay.notenough": "Not enough money",
-		"economy.pay.success": "You paid {0} {2} to {1}",
-		"economy.daily.already": "You already claimed your daily reward",
-		"economy.daily.success": "You claimed your daily reward",
-		"economy.pay.bot": "You cannot pay to bot",
-		"economy.quests.generated": "Generated quests",
-		"economy.quests.removed": "Removed quests",
-		"economy.quests.title": "Quests",
-		"economy.quests.quest.progress": "**Progress**",
-		"economy.quests.quest.RequiredMessagesUntil": "Activity",
-		"economy.quests.quest.RequiredMessagesUntil.RequiredMessages": "Required messages",
-		"economy.quests.quest.RequiredMessagesUntil.Until": "until",
-		"economy.quests.quest.RequiredMessagesUntil.current": "Current",
-		"economy.quests.quest.OutplayBotFlip": "Outplay bot in flip",
-		"economy.quests.quest.OutplayBotFlip.Flips": "Outplay bot times",
-		"economy.quests.reward": "**Reward**",
-		"economy.quest.complete": "Quest {0} completed. You got {1} {2}",
-		"voteskip.skip": "Vote for skip!",
-		"flip.heads": "Heads",
-		"flip.tails": "Tails",
-		"economy.flip.bid.negative": "Bid must be positive",
-		"economy.flip.bid.too-high": "Bid is too high",
-		"economy.flip.choice.missing": "You must choose heads or tails",
-		"economy.flip.won": "You won {0} {2} ( `+{1}` )",
-		"economy.flip.lost": "You lost {0} {1}",
-		"timeout.self": "You are about to mute yourself.",
-		"timeout.yes": "Yes",
-		"timeout.no": "No",
-		"timeout.canceled": "Canceled",
-		"timeout.noUser": "User not found",
-		"timeout.done": "{0} will be unmuted {1}. Reason: {2}",
-		"timeout.selfmuted": "You has been self-muted.",
-		"actions.role.nottextchannel": "This channel not text channel",
-		"actions.role.notauthor": "This message is not mine.",
-		"actions.role.higher": "Role too high.",
-		"error.no-text-channel": "Not text channel!",
-		"welcomer.channel-set": "Welcome channel has been changed!",
-		"welcomer.preview-welcome": "Welcome message:",
-		"welcomer.preview-leave": "Leave message:",
-		"welcomer.preview.notprovided": "Not provided",
-		"welcomer.channels-preview": "Channels: ",
-		"welcomer.message-empty": "Message is empty",
-		"welcomer.placeholders": "Examples of placeholders can be found here: https://gist.github.com/DHCPCD9/9e248f58a24874c048a9c1333c6eac05",
-		"welcomer.toggle": "Welcomer toggled",
-		"stats.shard": "Shard",
-		"stats.guilds": "Guilds",
-		"stats.ram": "RAM",
-		"stats.uptime": "Uptime",
-		"stats.library": "Library",
-		"currency.short.too.long": "Currency code is too long. Max length is 3",
-		"currency.emoji.invalid": "Invalid emoji.",
-		"currency.changed": "Currency changed to {0}({1})."
+  "locale": "English",
+  "authors": [],
+  "messages": {
+    "BOT_RUNNING": "I'm ready.",
+    "MUSIC_NOMUSICPLAYING": "No music playing in this guild.",
+    "MUSIC_NOQUERY": "No query given.",
+    "MUSIC_NO_CONNECTION": "You are not in voice channel.",
+    "MUSIC_NOPERMISSIONS_VOICE": "I don't have permissions to connect to your channel.",
+    "MUSIC_CHANNELFULL": "Channel is full.",
+    "MUSIC_QUEUE_MISSING_PERMISSIONS": "Not enough permissions in queueChannel. (Current channel.)",
+    "MUSIC_NOMATCHES": "No matches.",
+    "MUSIC_LOADFAILED": "Cannot load tracks.",
+    "MUSIC_PLAYLIST_LOADED": "Loaded playlist **{0}**.",
+    "MUSIC_TRACK_ADDED": "Track has been added to queue.",
+    "ERROR_NO": "NO!",
+    "MUSIC_LOOPTYPE": "Current loop type is: **{0}**",
+    "MUSIC_EMPTY_QUEUE": "Queue is empty.",
+    "HUG_TITLE": "{0} hugs {1}",
+    "HUG_TITLE_BOT": "{0} hugs {1}, but {1} doesn't feel it 😭.",
+    "HUG_TITLE_SELF": "{0} want hugs!",
+    "HUG_BUTTON_TEXT": "Hug {0}",
+    "SLAP_TITLE": "{0} slaps {1}",
+    "SLAP_TITLE_BOT": "{0} slaps {1}, but {1} dont know what it is, its kiss or slap.",
+    "SLAP_TITLE_SELF": "{0} want some slap!",
+    "SLAP_BUTTON_TEXT": "slap {0}",
+    "FEED_TITLE": "{0} feed {1}",
+    "FEED_TITLE_BOT": "{0} feed {1}, but {1} doesn't want it 😖.",
+    "FEED_TITLE_SELF": "{0} hungry... want to feed them?",
+    "FEED_BUTTON_TEXT": "Feed {0}",
+    "PAT_TITLE": "{0} pats {1}",
+    "PAT_TITLE_BOT": "{0} want pat {1}, but {1} doesn't want it.",
+    "PAT_TITLE_SELF": "{0} want to pat, press button to do it",
+    "PAT_BUTTON_TEXT": "Pat {0}",
+    "KISS_TITLE": "{0} kisses {1}",
+    "KISS_TITLE_BOT": "{0} kisses {1}, but {1} doesn't know what is it 😭.",
+    "KISS_TITLE_SELF": "{0} want some kisses.",
+    "KISS_BUTTON_TEXT": "Kiss {0}.",
+    "MESSAGE_NOT_SUPPORTED": "This message is not supported 😭",
+    "CHANNEL_NOT_SUPPORTED": "Provided channel is not supported, please check bot permissions.",
+    "MESSAGE_WITH_ID": "To edit/attach buttons to message, use id `{0}`",
+    "----------------------------------------------------------------": "",
+    "LOCALIZATION V2": "",
+    "locale": {
+      "already": {
+        "set": "Locale already set to {0}"
+      },
+      "not": {
+        "exists": "Locale {0} not exists"
+      },
+      "set": "Locale set to {0}"
+    },
+    "basic": {
+      "done": "Done!"
+    },
+    "economy": {
+      "quests": {
+        "disabled": "Quests are disabled",
+        "enabled": "Quests are enabled",
+        "generated": "Generated quests",
+        "removed": "Removed quests",
+        "title": "Quests",
+        "quest": {
+          "progress": "**Progress**",
+          "RequiredMessagesUntil": "Activity",
+          "OutplayBotFlip": "Outplay bot in flip"
+        },
+        "reward": "**Reward**"
+      },
+      "disabled": "Economy is disabled",
+      "enabled": "Economy is enabled",
+      "balance": "Your balance is {0} {1}",
+      "frozen": "Your balance is frozen",
+      "pay": {
+        "target": {
+          "notfound": "Target not found"
+        },
+        "notenough": "Not enough money",
+        "success": "You paid {0} {2} to {1}",
+        "bot": "You cannot pay to bot"
+      },
+      "daily": {
+        "already": "You already claimed your daily reward",
+        "success": "You claimed your daily reward"
+      },
+      "quest": {
+        "complete": "Quest {0} completed. You got {1} {2}"
+      },
+      "flip": {
+        "bid": {
+          "negative": "Bid must be positive",
+          "too-high": "Bid is too high"
+        },
+        "choice": {
+          "missing": "You must choose heads or tails"
+        },
+        "won": "You won {0} {2} ( `+{1}` )",
+        "lost": "You lost {0} {1}"
+      }
+    },
+    "voteskip": {
+      "skip": "Vote for skip!"
+    },
+    "flip": {
+      "heads": "Heads",
+      "tails": "Tails"
+    },
+    "timeout": {
+      "self": "You are about to mute yourself.",
+      "yes": "Yes",
+      "no": "No",
+      "canceled": "Canceled",
+      "noUser": "User not found",
+      "done": "{0} will be unmuted {1}. Reason: {2}",
+      "selfmuted": "You has been self-muted."
+    },
+    "actions": {
+      "role": {
+        "nottextchannel": "This channel not text channel",
+        "notauthor": "This message is not mine.",
+        "higher": "Role too high."
+      }
+    },
+    "error": {
+      "no-text-channel": "Not text channel!"
+    },
+    "welcomer": {
+      "channel-set": "Welcome channel has been changed!",
+      "preview-welcome": "Welcome message:",
+      "preview-leave": "Leave message:",
+      "preview": {
+        "notprovided": "Not provided"
+      },
+      "channels-preview": "Channels: ",
+      "message-empty": "Message is empty",
+      "placeholders": "Examples of placeholders can be found here: https://gist.github.com/DHCPCD9/9e248f58a24874c048a9c1333c6eac05",
+      "toggle": "Welcomer toggled"
+    },
+    "stats": {
+      "shard": "Shard",
+      "guilds": "Guilds",
+      "ram": "RAM",
+      "uptime": "Uptime",
+      "library": "Library"
+    },
+    "currency": {
+      "short": {
+        "too": {
+          "long": "Currency code is too long. Max length is 3"
+        }
+      },
+      "emoji": {
+        "invalid": "Invalid emoji."
+      },
+      "changed": "Currency changed to {0}({1})."
+    },
+    "player": {
+      "not": {
+        "playing": "Nothing is playing right now"
+      },
+      "embed": {
+        "queue": {
+          "title": "Queue",
+          "empty": "Queue is empty"
+        },
+        "now": {
+          "playing": "Now playing"
+        },
+        "author": "Author",
+        "length": "Length",
+        "footer": "OwO",
+        "buttons": {
+          "pause": "Pause",
+          "resume": "Resume",
+          "skip": "Skip",
+          "loop": "Change loop mode"
+        }
+      },
 
-	}
+      "messages": {
+        "cant": {
+          "skip": "You can't skip this song."
+        },
+        "paused": "Paused",
+        "skipped": "Skipped",
+        "loop": {
+          "none": "Loop mode disabled",
+          "queue": "Loop mode enabled (queue)",
+          "song": "Loop mode enabled (song)"
+        }
+      }
+    },
+    "moderation": {
+      "kick": {
+        "description": "Викинути користувача з сервера."
+      },
+      "ban": {
+        "description": "Забанити користувача на сервері."
+      }
+    },
+    "viewaudit": {
+      "title": "View audit",
+      "timeout": "Таймаут",
+      "target": "Цель",
+      "moderator": "Модератор",
+      "reason": "Причина",
+      "time": "Время",
+      "footer": "Показываю страницу {0} з {1}",
+      "invalid": {
+        "page": "Этой страницы не существует."
+      },
+      "empty": "Я пока не захватила действий модерации ничего на этом сервере.",
+      "ban": "Бан",
+      "kick": "Кик",
+      "unknown": "Разбан",
+      "rolledback": "Откачена",
+      "no-reason": "Без причины."
+    }
+  }
 }
