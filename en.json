@@ -11,7 +11,7 @@
     "MUSIC_QUEUE_MISSING_PERMISSIONS": "Not enough permissions in queueChannel. (Current channel.)",
     "MUSIC_NOMATCHES": "No matches.",
     "MUSIC_LOADFAILED": "Cannot load tracks.",
-    "MUSIC_PLAYLIST_LOADED": "Loaded playlist **{0}**.",
+    "MUSIC_PLAYLIST_LOADED": "Loaded playlist **{0}**, starting from **{1}** track.",
     "MUSIC_TRACK_ADDED": "Track has been added to queue.",
     "ERROR_NO": "NO!",
     "MUSIC_LOOPTYPE": "Current loop type is: **{0}**",
@@ -161,7 +161,8 @@
       "embed": {
         "queue": {
           "title": "Queue",
-          "empty": "Queue is empty"
+          "empty": "Queue is empty",
+          "more": "and {0} more"
         },
         "now": {
           "playing": "Now playing"
@@ -182,11 +183,12 @@
           "skip": "You can't skip this song."
         },
         "paused": "Paused",
+        "resumed": "Playback resumed",
         "skipped": "Skipped",
         "loop": {
           "none": "Loop mode disabled",
           "queue": "Loop mode enabled (queue)",
-          "song": "Loop mode enabled (song)"
+          "track": "Loop mode enabled (song)"
         }
       }
     },
