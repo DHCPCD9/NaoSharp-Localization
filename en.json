@@ -11,6 +11,7 @@
     "MUSIC_QUEUE_MISSING_PERMISSIONS": "Not enough permissions in queueChannel. (Current channel.)",
     "MUSIC_NOMATCHES": "No matches.",
     "MUSIC_LOADFAILED": "Cannot load tracks.",
+    "MUSIC_NOTE": "**Note**: If you trying to load track from youtube, load will be failed due to discord ToS.",
     "MUSIC_PLAYLIST_LOADED": "Loaded playlist **{0}**, starting from **{1}** track.",
     "MUSIC_TRACK_ADDED": "Track has been added to queue.",
     "ERROR_NO": "NO!",
